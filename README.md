@@ -67,7 +67,7 @@ Random seeds are fixed (`RANDOM_STATE = 0`) for the Gradient Boosting model and 
 
 ## Results
 
-Test-set evaluation metrics (2-year weekly test horizon; the hourly LSTM is aggregated to weekly for comparison) are computed in the notebook's final comparison section and reported in full in `report/report.pdf`. A plot of all model forecasts against actual demand over the test period is generated at the end of the notebook and exported to `figures/`.
+Test-set evaluation metrics (2-year weekly test horizon; the hourly LSTM is aggregated to weekly for comparison) are computed in the notebook's final comparison section and reported in full in `Electricity_Demand_Forecasting_Report_renu.pdf`.
 
 ## Requirements.txt
 
