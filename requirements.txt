@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+requests
+statsmodels
+scikit-learn
+holidays
+tensorflow-cpu
+joblib
+jupyter
